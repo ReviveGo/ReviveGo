@@ -1,7 +1,6 @@
 # ReviveGo
-A website made for SWEN Seminar at RIT. MINOR CHANGES TEST
-another change
+A website made for SWEN Seminar at RIT. 
 
-test please
 
-no test
+
+
